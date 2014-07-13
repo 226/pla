@@ -26,3 +26,4 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+[ ![Codeship Status for 226/pla](https://www.codeship.io/projects/cf295370-ec96-0131-ae59-4eab11a94fbf/status)](https://www.codeship.io/projects/26608)
